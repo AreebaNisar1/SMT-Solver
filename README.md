@@ -37,7 +37,7 @@ Follow these steps to set up the project locally:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/fawad57/FM-Playground.git
+   git clone https://github.com/AreebaNisar1/SMT-Solver.git
    cd formal-methods-playground
    ```
 
@@ -244,9 +244,6 @@ Please ensure your code follows the project’s coding style and includes approp
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For questions or support, please open an issue on the GitHub repository or contact [your-email@example.com].
 
 ## Acknowledgments
 
